@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		Deploy when commit on main branch<br />SvelteKit app
 	</h1>
 
 	<h2>
